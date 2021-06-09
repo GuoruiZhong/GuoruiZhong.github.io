@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://guoruizhong.github.io/sitemap.xml
